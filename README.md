@@ -14,9 +14,9 @@ Api desenvolvida com o proposito de encurtar urls.
 <b>Para rodar a aplicação:</b> <br>
 ```
 $ git clone https://github.com/nobregas/url-shortener.git
-$ ./mvnw clean package
+$ ./mvn clean package
 $ docker compose up
-$ java -jar target/url-shortener.jar
+$ java -jar target/url-shortener-0.0.1-SNAPSHOT.jar
 ```
 
 ## 📚Funcionalidades
